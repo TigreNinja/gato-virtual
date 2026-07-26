@@ -232,3 +232,34 @@ Puedes abrir un *issue* o enviar un *pull request*. Procura que cada cambio mant
 1. Integración sencilla.
 2. Código claro.
 3. Gatos felices.
+
+---
+
+![Tigre Ninja hero image](https://tigreninja.com/img/tigreninja.webp "Tigre Ninja")
+
+# Un proyecto de Tigre Ninja
+
+Marca creativa y tecnológica donde conviven el desarrollo web, la inteligencia
+artificial, la narrativa y la formación digital. Cada repositorio es una pieza
+del mismo camino: aprender, construir y compartir lo aprendido.
+
+🌐 **[Landing del proyecto](https://tigreninja.com/portfolio/gato-virtual/gato-virtual.html)** · [tigreninja.com](https://tigreninja.com)
+
+[![Web](https://img.shields.io/badge/web-tigreninja.com-b3122d?style=flat-square)](https://tigreninja.com)
+[![X](https://img.shields.io/badge/X-@TigreNinja__tech-111?style=flat-square)](https://x.com/TigreNinja_tech)
+[![YouTube](https://img.shields.io/badge/YouTube-@tigreninja--video-b3122d?style=flat-square)](https://youtube.com/@tigreninja-video)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josep%20Andreu-111?style=flat-square)](https://linkedin.com/in/josepandreu)
+
+---
+<i style="color:grey; font-size:0.7em;">
+<b>Aviso de marca.</b> «Tigre Ninja»™, el logotipo del tigre y la identidad visual
+asociada son marcas de Josep Andreu. El código de este repositorio se distribuye
+bajo la licencia indicada en el archivo `LICENSE`; dicha licencia **no** concede
+ningún derecho de uso sobre el nombre, el logotipo, la identidad visual ni los
+contenidos narrativos de Tigre Ninja. Cualquier uso comercial o representativo
+de la marca requiere autorización previa y por escrito.
+</i>
+
+
+**© 2024–2026 Josep Andreu Vivancos Oto — HAKUSHIN TIGRE NINJA. Código: según `LICENSE`. Marca y
+contenidos: todos los derechos reservados.**
