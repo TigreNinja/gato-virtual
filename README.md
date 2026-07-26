@@ -235,7 +235,7 @@ Puedes abrir un *issue* o enviar un *pull request*. Procura que cada cambio mant
 
 ---
 
-![Tigre Ninja hero image](https://tigreninja.com/img/tigreninja.webp "Tigre Ninja")
+![Hakushin: Tigre Ninja's logo](https://tigreninja.com/img/logo-hakushin-light.png "Hakushin Tigre Ninja")
 
 # Un proyecto de Tigre Ninja
 
