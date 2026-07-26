@@ -1,5 +1,7 @@
 # Gato Virtual 🐈
 
+![Cover|300](assets/cover.png)
+
 > Un pequeño gato para tu web. Cero dependencias. Bastante personalidad.
 
 **Gato Virtual** es una mascota web ligera, interactiva y personalizable, inspirada en los clásicos *neko* y *shimeji*.
